@@ -1,5 +1,5 @@
 Attribute VB_Name = "Module1"
-Sub ÅV‘I‘ğ()
+Sub selectLatest()
 
     Dim MaxRow As Long
     Dim MaxCol As Long
